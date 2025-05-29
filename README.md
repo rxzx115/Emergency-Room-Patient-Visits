@@ -31,5 +31,5 @@
     - Re-evaluate and adjust staffing levels and resource allocation (e.g., physician, nurse, support staff) to better match the increased demand and longer wait times.
 2. Significant volume of patients with "None" department referral and notable wait times.
     - Implement a rapid assessment or 'fast track' process for patients who do not require specific departmental referrals to quickly evaluate and discharge or refer them.
-3. "African American" and "Declined to Identify" patients experience higher average wait times. 
-    - Conduct a thorough investigation into the patient journey for these specific demographic groups to identify any specific clinical needs that contribute to their extended wait times.
+3. Average satisfaction score is significantly low. 
+    - Conduct a deeper qualitative analysis (e.g., patient surveys, direct feedback) to understand the specific reasons for low satisfaction across all patient interactions.
